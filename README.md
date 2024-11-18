@@ -4,6 +4,10 @@
 
 Este proyecto es un script en Python que utiliza las bibliotecas OpenCV y MediaPipe para detectar manos y sus puntos clave (landmarks) en imágenes estáticas. El script procesa una o más imágenes, identifica las manos presentes y marca los puntos de referencia en las mismas, guardando el resultado como nuevas imágenes anotadas.
 
+
+<span><img src="https://github.com/VintaBytes/Deteccion-de-Manos-con-OpenCV/blob/main/manos2.png"  width="320px"/></span>
+
+
 ## Descripción del Proyecto
 
 El objetivo de este proyecto es demostrar cómo utilizar MediaPipe para la detección y seguimiento de manos en imágenes estáticas. El script carga imágenes, procesa cada una para detectar manos y sus landmarks, y luego dibuja estos puntos y las conexiones entre ellos sobre la imagen original. Finalmente, guarda las imágenes anotadas en el disco.
@@ -126,7 +130,3 @@ Para ejecutar este script, necesitas tener instaladas las siguientes dependencia
 ## Capturas de pantalla:
 
 <span><img src="https://github.com/VintaBytes/Deteccion-de-Manos-con-OpenCV/blob/main/manos1.png"  width="320px"/></span>
-
-<span><img src="https://github.com/VintaBytes/Deteccion-de-Manos-con-OpenCV/blob/main/manos2.png"  width="320px"/></span>
-
-
