@@ -123,5 +123,10 @@ Para ejecutar este script, necesitas tener instaladas las siguientes dependencia
 
 - **Visualización en Pantalla**: Si deseas visualizar las imágenes anotadas en lugar de solo guardarlas, puedes utilizar `cv2.imshow()` y `cv2.waitKey()` en el script.
 
-## Captura de pantalla:
-<span><img src="https://github.com/VintaBytes/Deteccion-de-malla-facial-con-OpenCV-y-MediaPipe/blob/main/cara1.png"  width="320px"/></span>
+## Capturas de pantalla:
+
+<span><img src="https://github.com/VintaBytes/Deteccion-de-Manos-con-OpenCV/blob/main/manos1.png"  width="320px"/></span>
+
+<span><img src="https://github.com/VintaBytes/Deteccion-de-Manos-con-OpenCV/blob/main/manos2.png"  width="320px"/></span>
+
+
