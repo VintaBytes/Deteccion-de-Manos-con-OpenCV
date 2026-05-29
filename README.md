@@ -1,6 +1,8 @@
 # Detección de Manos con OpenCV y MediaPipe
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
+<span><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7?style=for-the-badge"/></span>
 
 Este proyecto es un script en Python que utiliza las bibliotecas OpenCV y MediaPipe para detectar manos y sus puntos clave (landmarks) en imágenes estáticas. El script procesa una o más imágenes, identifica las manos presentes y marca los puntos de referencia en las mismas, guardando el resultado como nuevas imágenes anotadas.
 
